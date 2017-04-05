@@ -1,0 +1,42 @@
+Verify Admin login with valid and Invalid data
+Verify admin login without data
+Verify all admin home links
+Verify admin change password with valid and invalid data
+Verify admin change password without data
+Verify admin change password with existing data
+Verify admin logout
+For new Branch
+
+Create a new branch with valid and invalid data
+Create a new branch without data
+Create a new branch with existing branch data
+Verify reset and cancel option
+Update branch with valid and invalid data
+Update branch without data
+Update branch with existing branch data
+Verify cancel option
+Verify branch deletion with and without dependencies
+Verify branch search option
+For New Role
+Create a new role with valid and invalid data
+Create a new role without data
+Verify new role with existing data
+verify role description and role types
+Verify cancel and reset option
+Verify role deletion with and without dependency
+verify links in role details page
+For customer & Visitors
+Verify all visitor or customer links
+Verify customers login with valid and invalid data
+Verify customers login without data
+Verify bankers login without data
+Verify bankers login with valid or invalid data
+For New users
+Create a new user with valid and invalid data
+Create a new user without data
+Create a new user with existing branch data
+Verify cancel and reset option
+Update user with valid and invalid data
+Update user with existing data
+Verify cancel option
+Verify deletion of the use
